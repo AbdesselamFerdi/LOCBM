@@ -1,2 +1,2 @@
 # LO-CBM
-Language Optimization for Concept Bottleneck Models
+Language Optimization Concept Bottleneck Models
